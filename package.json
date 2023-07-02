@@ -20,7 +20,8 @@
   "homepage": "https://github.com/allImran/node-prisma-postgre#readme",
   "dependencies": {
     "@prisma/client": "^4.16.1",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
     "@types/node": "^20.3.1",
